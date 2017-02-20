@@ -1,0 +1,14 @@
+{
+  "name": "polyline-circle",
+  "version": "0.0.1",
+  "description": "Create a polyline encoded circle",
+  "scripts": {
+    "test": "ava --verbose"
+  },
+  "dependencies": {
+    "@mapbox/polyline": "^0.2.0"
+  },
+  "devDependencies": {
+    "ava": "^0.18.2"
+  }
+}
