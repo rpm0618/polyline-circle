@@ -6,7 +6,7 @@ const polyline = require('@mapbox/polyline');
  * Creates a polyline-encoded circle around a given point
  * @param {Number}  lat     Latitude for the center of the circle
  * @param {Number}  lng     Longitude for the center of the circle
- * @param {Number}  radius  Radius of the circle (in kilometers)
+ * @param {Number}  radius  Radius of the circle (in meters)
  * @returns {String} A polyline encoded circle
  */
 module.exports = function(lat, lng, radius) {
