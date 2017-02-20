@@ -1,6 +1,6 @@
 {
   "name": "polyline-circle",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Create a polyline encoded circle",
   "author": "Ryan McVeety <rpm0618@gmail.com>",
   "repository": "https://github.com/rpm0618/polyline-circle.git",
